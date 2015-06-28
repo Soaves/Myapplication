@@ -23,7 +23,7 @@
 
 <preference name="icon" src="icon.png" />
 
-<preference name="SplashScreen" src="splash.png" value="screen"/>
+<preference name="Splash" src="splash.png" value="screen"/>
 <preference name="SplashScreenDelay" value="5000" />
 
 <!-- Define app icon ANDROID Platform. -->
