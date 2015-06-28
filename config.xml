@@ -21,9 +21,9 @@
 
 <!-- Define app icon MAIN ROOT Platform. -->
 
-<preference name="icon" src="icon.png" />
+<icon src="icon.png" />
 
-<preference name="Splashscreen" src="splash.png" value="screen"/>
+<splash src="splash.png" value="screen"/>
 
 <!-- Define app icon ANDROID Platform. -->
 
