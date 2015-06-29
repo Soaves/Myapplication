@@ -17,7 +17,6 @@
         
     </author>
 	
-<icon src="icon.png" />
 
 <!-- Define app icon MAIN ROOT Platform. -->
 
@@ -25,7 +24,9 @@
 
 <!-- Define app icon ANDROID Platform. -->
 
-<icon src="icons/android/icon-36-ldpi.png" gap:platform="android" gap:density="ldpi" />
+<icon src="icon.png" />
+
+con src="icons/android/icon-36-ldpi.png" gap:platform="android" gap:density="ldpi" />
 
 <icon src="icons/android/icon-48-mdpi.png" gap:platform="android" gap:density="mdpi" />
 
@@ -64,6 +65,7 @@
 
 
 <!-- Define app splash screen for ANDROID platform. -->
+<splash src="splash.png" />
 
 <gap:splash src="splash/android/screen-ldpi-portrait.png" gap:platform="android" gap:density="ldpi" />
 
@@ -94,6 +96,5 @@
 <gap:splash src="splash/ios/Default-Portrait_at_2x.png" width="1536" height="2008" />
 
 <!-- Define app splash screen for WINPHONE platform. -->
-<splash src="splash.png" />
 </widget>
 
