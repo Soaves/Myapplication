@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Alnwick Playhouse concert Band</name>
+    <name>Alnwick Playhouse Concert Band</name>
 
     <description>
          Mobile for Alnwick Playhouse Concert Band
@@ -16,13 +16,12 @@
     <author href="http://www.alnwickplayhouseconcertband.org.uk" email="info@alnwickplayhouseconcertband.org.uk">
         
     </author>
-
+	
+<icon src="icon.png" />
 
 <!-- Define app icon MAIN ROOT Platform. -->
 
-<icon src="icon.png" />
 
-<splash src="splash.png" value="screen"/>
 
 <!-- Define app icon ANDROID Platform. -->
 
@@ -95,6 +94,6 @@
 <gap:splash src="splash/ios/Default-Portrait_at_2x.png" width="1536" height="2008" />
 
 <!-- Define app splash screen for WINPHONE platform. -->
-
+<splash src="splash.png" />
 </widget>
 
